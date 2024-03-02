@@ -59,7 +59,7 @@ html {
   font-weight: 400;
   line-height: 1.6em;
   overflow-x: hidden;
-  background-color: #056315a5;
+  background: linear-gradient(to right, #8b4cf2, #4d9ebd, #11ea8d);
 }
 
 h1,
